@@ -8,6 +8,6 @@ This project is the final personal project for the Computational Social Sciences
 
 | [<b>Final Report</b>](Report.pdf) |  
 |:---------------------------------------------------------------:|  
-| [![](images-readme/thumbnail.png)](Report.pdf)                     |
+| [![](thumbnail.png)](Report.pdf)                     |
 
 </div>
